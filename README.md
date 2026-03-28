@@ -1,5 +1,5 @@
 # APEXTRIGGER
-A fast-paced ULTRAKILL style FPS shooter coming out on Epic Games!
+A fast-paced ULTRAKILL style FPS shooter coming out on Itch io!
 
 # Controls
 
