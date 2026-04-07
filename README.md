@@ -1,5 +1,5 @@
 # APEXTRIGGER
-A fast-paced ULTRAKILL style FPS shooter coming out on Itch io!
+A fast-paced ULTRAKILL style FPS shooter. Aim Training Software.
 
 # Controls
 
